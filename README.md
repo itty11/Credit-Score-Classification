@@ -67,11 +67,19 @@ ROC-AUC Curve
 # Future Improvements
 
 Try LightGBM / CatBoost (alternative boosting algorithms)
+
+
 Hyperparameter tuning with GridSearchCV
+
+
 Add feature importance analysis
+
+
 Deploy with Streamlit or Flask
 
 # References
 
 UCI Credit Card Dataset - https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
+
 Scikit-learn, XGBoost documentation
